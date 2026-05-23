@@ -1,0 +1,6 @@
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; padding: 0; }
+h1, h2, h3, h4, p { margin: 0; }
+button { font-family: inherit; }
+input, textarea { font-family: inherit; }
+#root { width: 100%; }
